@@ -4,10 +4,10 @@
 
 <H2>Project Flow Chart</H2>
 
-*模型流程圖
+*   模型流程圖
 ![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Modle%20Flow%20chart.jpg)
 
-*專案流程圖
+*   專案流程圖
 ![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Project%20Flow%20chart.jpg)
 
 <H2>Data</H2>
@@ -27,6 +27,8 @@
     1.以隨機森林模型建立推薦餐廳
     
 <H2>Some Example</H2>
+
+*   推薦系統D
 ![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/recommandation%20system_new.png)
 
 
