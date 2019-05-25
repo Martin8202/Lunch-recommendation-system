@@ -10,16 +10,12 @@
 *   專案流程圖
 ![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Project%20Flow%20chart.jpg)
 
-<H2>Data_</H2>
-
-1.訓練資料集：氣溫、雨量、濕度、用餐時段、星期幾、餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
-
 <H2>File Description</H2>
 
 * Data：<br>
     1.外部資料檔：氣溫、雨量、濕度、用餐時段、星期幾
     2.歷史資料檔：餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
-* Data：<br>
+* Database：<br>
     1.使用RSQLite建立資料庫。
     2.後期開發以MongoDB為資料庫，附上讀取之程式碼。
 * collect_code：<br>
