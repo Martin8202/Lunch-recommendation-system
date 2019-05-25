@@ -8,8 +8,7 @@
 ![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Modle%20Flow%20chart.jpg)
 
 *專案流程圖
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Modle%20Flow%20chart.jpg)
-https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Project%20Flow%20chart.jpg
+![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Project%20Flow%20chart.jpg)
 
 <H2>Data</H2>
 
