@@ -13,18 +13,11 @@
 <H2>Data</H2>
 
 1.訓練資料集：氣溫、雨量、濕度、用餐時段、星期幾、餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
-2.
-* Data：存放樣本資料
-* code.py：
-  (1) Preprocessing 
-  (2) Feature engineering 
-  (3) Preprocessing 
-  (4) Feature selection 
-  (5) Building model 
-  (6) Making predictions
 
-<H2>Result</H2>
-  
-  1.  樣本內與樣本為準確率僅差2%。<br>
-  2.  AUC：81%。
+<H2>File Description</H2>
+
+*Data
+>>1.訓練資料集：氣溫、雨量、濕度、用餐時段、星期幾、餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
+<H2>Some Example</H2>
+
  
