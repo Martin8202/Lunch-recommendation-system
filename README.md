@@ -5,10 +5,10 @@
 <H2>Project Flow Chart</H2>
 
 *   模型流程圖
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Modle%20Flow%20chart.jpg)
+![image](https://github.com/Martin8202/Project_Lunch_recommendation_system/blob/master/Modle%20Flow%20chart.jpg)
 
 *   專案流程圖
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/Project%20Flow%20chart.jpg)
+![image](https://github.com/Martin8202/Project_Lunch_recommendation_system/blob/master/Project%20Flow%20chart.jpg)
 
 <H2>File Description</H2>
 
@@ -27,8 +27,8 @@
     
 <H2>Some Example</H2>
 
-*   推薦系統D
-![image](https://github.com/Martin8202/Lunch-recommendation-system/blob/master/recommandation%20system_new.png)
+*   推薦系統Demo
+![image](https://github.com/Martin8202/Project_Lunch_recommendation_system/blob/master/recommandation%20system_new.png)
 
 
  
