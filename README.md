@@ -13,12 +13,12 @@
 <H2>File Description</H2>
 
 * Data：<br>
-    1.外部資料檔：氣溫、雨量、濕度、用餐時段、星期幾
+    1.外部資料檔：氣溫、雨量、濕度、用餐時段、星期幾<br>
     2.歷史資料檔：餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
 * collect_code：<br>
     1.透過爬蟲或API蒐集外部資料之程式(R)
 * Database：<br>
-    1.使用RSQLite建立資料庫。
+    1.使用RSQLite建立資料庫。<br>
     2.後期開發以MongoDB為資料庫，附上讀取之程式碼。
 * shiny：<br>
     1.以shiny呈現之程式檔(R)
