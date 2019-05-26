@@ -29,6 +29,3 @@
 
 *   推薦系統Demo
 ![image](https://github.com/Martin8202/Project_Lunch_recommendation_system/blob/master/recommandation%20system_new.png)
-
-
- 
