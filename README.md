@@ -23,7 +23,7 @@
 * shiny：<br>
     1.以shiny呈現之程式檔(R)
 * RandomForest.R：<br>
-    1.以隨機森林模型建立推薦餐廳
+    1.以隨機森林演算法建立模型，並依據每個使用者推薦餐廳
     
 <H2>Some Example</H2>
 
