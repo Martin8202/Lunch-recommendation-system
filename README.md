@@ -17,7 +17,7 @@
     2.歷史資料檔：餐廳經緯度、愛評網評分、使用者評分、使用者過去用餐結果
 * collect_code：<br>
     1.透過爬蟲或API蒐集外部資料之程式(R)
-* Database：<br>
+* atabase：<br>
     1.使用RSQLite建立資料庫。<br>
     2.後期開發以MongoDB為資料庫，附上讀取之程式碼。
 * shiny：<br>
